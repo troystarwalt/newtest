@@ -1,0 +1,50 @@
+/*css for article and article2*/
+body {
+	background-color: #EEEEEE;
+}
+
+#wrapper {
+	margin: 0 auto;
+	width: 650px;
+	background-color: white;
+	padding: 2px;
+}
+
+h1 {
+	font-family: helvetica, sans-serif;
+}
+
+img {
+	padding: 0px 14px 0px 14px;
+}
+
+#main {
+	padding: 0px 14px 0px 14px;
+}
+
+.first {
+	color:red;
+}
+
+.second {
+	color:blue;
+}
+
+p span {
+	color:grey;
+}
+
+li {
+	font-size:smaller;
+	font-family: helvetica, sans-serif;
+}
+
+p {
+	font-family: helvetica, sans-serif;
+}
+
+footer {
+	font-size:10px;
+	width: 650px;
+	clear:both;
+}

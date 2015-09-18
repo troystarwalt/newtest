@@ -1,0 +1,48 @@
+#wrapper {
+	margin: 0 auto;
+	width: 1000px;
+	font-family:arial;
+}
+
+#main {
+	margin: 0 auto;
+}
+
+h1 {
+	text-align: left;
+}
+
+table {
+    border: 1px solid lightgray;
+    padding: 10px;
+    margin:;
+}
+table th {
+    background-color: #33ff99;
+    text-align: center;
+    padding: 10px;
+}
+table td {
+    width: 200px;
+    border: 1px dashed silver;
+}
+
+td:nth-child(2) {
+	font-style: italic;
+}
+
+th:nth-child(3) {
+	background-color: lightblue;
+}
+
+tr:nth-child(odd) {
+	background-color: lightgreen;
+}
+
+p {
+	color:blue;
+}
+
+li {
+	font-family: sans-serif;
+}

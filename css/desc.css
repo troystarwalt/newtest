@@ -1,0 +1,25 @@
+#wrapper {
+	width:600px;
+	margin: 0 auto;
+	font-family: helvetica;
+	background-image: url(http://cdn1.pri.org/sites/default/files/styles/story_main/public/story/images/dove%20angel.jpg?itok=_7B-MQTu);
+}
+
+a:active {
+	color:green;
+}
+
+a:hover {
+	font-size: 20px;
+	background-color: grey;
+}
+
+.select {
+	background-color: #839201;
+}
+
+p {
+	background-color: black;
+	color: white;
+	padding:2px;
+}
